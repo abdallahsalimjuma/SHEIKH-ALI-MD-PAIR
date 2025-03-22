@@ -1,0 +1,20 @@
+{
+  "name": "SHEIKH-ALI-MD-PAIR",
+  "description": "Simple pair web and qr code web",
+  "logo": "https://i.ibb.co/yc3j9Qdw/8490.jpg",
+  "keywords": ["bot", "WhatsApp", "JavaScript"],
+  "success_url": "/",
+  "stack": "heroku-24",
+  "env": {
+    "TECH": {
+      "description": "JUST CLICK DEPOLY",
+      "value": "CLICK",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ]
+}
