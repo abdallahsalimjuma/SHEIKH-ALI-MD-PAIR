@@ -68,23 +68,23 @@ let sessionXeon = fs.readFileSync(auth_path + 'creds.json', 'utf-8');
            await delay(1000 * 2);
            const xeonses = await PrabathPairWeb.sendMessage(PrabathPairWeb.user.id, { text: sessionXeon });
              await PrabathPairWeb.sendMessage(PrabathPairWeb.user.id, { text: `┏━━━━━━━━━━━━━━ 
-┃𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃
+┃DRAXEN-Ai
 ┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒
 ┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 
 ┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥
 ┗━━━━━━━━━━━━━━━ 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰² ⚡𖥘 
+ ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ DRAXEN•••²⁴⁰² ⚡𖥘 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ᴏᴡɴᴇʀ = https://wa.me/923143702270 
+ ★ || ᴏᴡɴᴇʀ = https://wa.me/255716945971
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B
+ ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD 
+ ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/abdallahsalimjuma/DRAXEN-Ai
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@sheikh-ali-2412?si=jtHyERObmqci0YEo  
+ ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡ ` }, {quoted: xeonses});   
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ DRAXEN` }, {quoted: xeonses});   
                     } catch (e) {
                         exec('pm2 restart prabath');
                     }
