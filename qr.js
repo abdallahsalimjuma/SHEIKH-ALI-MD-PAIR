@@ -109,7 +109,7 @@ router.get('/', async (req, res) => {
                                         <img src="${qrImage}" alt="QR Code"/>
                                     </div>
                                     <div id="title-container">
-                                        <h2>NOTHING BEN QR</h2>
+                                        <h2>DRAXEN QR</h2>
                                         <p>Scan This QR Code</p>
                                     </div>
                                     <progress value="0" max="60" id="progressBar"></progress>
@@ -144,23 +144,23 @@ router.get('/', async (req, res) => {
                         const sessionMessage = await bot.sendMessage(userJid, { text: sessionData });
                         await bot.sendMessage(userJid, { 
                             text: `┏━━━━━━━━━━━━━━ 
-┃𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃
+┃DRAXEN-Ai
 ┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒
 ┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 
 ┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥
 ┗━━━━━━━━━━━━━━━ 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰² ⚡𖥘 
+ ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ DRAXEN•••²⁴⁰² ⚡𖥘 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ᴏᴡɴᴇʀ = https://wa.me/923143702270 
+ ★ || ᴏᴡɴᴇʀ = https://wa.me/255716945971
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B
+ ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://files.catbox.moe/c5wfno.mp3
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD 
+ ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/abdallahsalimjuma/DRAXEN-Ai
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@sheikh-ali-2412?si=jtHyERObmqci0YEo  
+ ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡ `, 
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ DRAXEN-Ai `, 
                             quoted: sessionMessage 
                         });
 
